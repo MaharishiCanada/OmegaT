@@ -72,8 +72,9 @@
       <tuv lang="EN-US">
         <seg>Raja Paul</seg>
       </tuv>
-      <tuv lang="FR-CA" changeid="dominic" changedate="20151017T233232Z" creationid="dominic" creationdate="20151017T233232Z">
-        <seg>Raja Paul </seg>
+      <tuv lang="FR-CA" changeid="dominic" changedate="20151017T234341Z" creationid="dominic" creationdate="20151017T233232Z">
+        <seg>Raja Paul 
+Test</seg>
       </tuv>
     </tu>
     <tu>
