@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -88,8 +88,8 @@
       <tuv lang="EN-US">
         <seg>We have a unique ability to create a powerful influence of coherence in collective consciousness though our group practice of the Transcendental Meditation and TM-Sidhis programme.</seg>
       </tuv>
-      <tuv lang="FR-CA" changeid="dominic" changedate="20151017T231538Z" creationid="dominic" creationdate="20151017T223549Z">
-        <seg>Nous avons une chance unique de créer une influance de cohérence puissante dans la conscience collective par notre pratique en groupe du programme de Méditation Transcendantale et de MT-siddhis</seg>
+      <tuv lang="FR-CA" changeid="claudecazeault" changedate="20151018T001537Z" creationid="dominic" creationdate="20151017T223549Z">
+        <seg>Nous avons une chance unique de créer une influance de cohérence puissante dans la conscience collective par notre pratique en groupe du programme de Méditation Transcendantale et de MT-Siddhis.</seg>
       </tuv>
     </tu>
     <tu>
